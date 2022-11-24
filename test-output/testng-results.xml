@@ -5,23 +5,23 @@
       <![CDATA[User logged in scucessfully]]>
     </line>
   </reporter-output>
-  <suite started-at="2022-11-11T16:58:53 GST" name="SeleniumFrameworkSuite" finished-at="2022-11-11T16:59:10 GST" duration-ms="17210">
+  <suite started-at="2022-11-11T17:27:18 GST" name="SeleniumFrameworkSuite" finished-at="2022-11-11T17:27:39 GST" duration-ms="21149">
     <groups>
     </groups>
-    <test started-at="2022-11-11T16:58:53 GST" name="Test" finished-at="2022-11-11T16:59:10 GST" duration-ms="17210">
+    <test started-at="2022-11-11T17:27:18 GST" name="Test" finished-at="2022-11-11T17:27:39 GST" duration-ms="21149">
       <class name="Test.firstTestCase">
-        <test-method is-config="true" signature="startDriver()[pri:0, instance:Test.firstTestCase@34b7ac2f]" started-at="2022-11-11T16:58:53 GST" name="startDriver" finished-at="2022-11-11T16:58:57 GST" duration-ms="3704" status="PASS">
+        <test-method is-config="true" signature="startDriver()[pri:0, instance:Test.firstTestCase@34b7ac2f]" started-at="2022-11-11T17:27:18 GST" name="startDriver" finished-at="2022-11-11T17:27:22 GST" duration-ms="4375" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startDriver -->
-        <test-method signature="firstTest()[pri:0, instance:Test.firstTestCase@34b7ac2f]" started-at="2022-11-11T16:58:57 GST" name="firstTest" finished-at="2022-11-11T16:59:08 GST" duration-ms="11654" status="PASS">
+        <test-method signature="firstTest()[pri:0, instance:Test.firstTestCase@34b7ac2f]" started-at="2022-11-11T17:27:22 GST" name="firstTest" finished-at="2022-11-11T17:27:37 GST" duration-ms="15305" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[User logged in scucessfully]]>
             </line>
           </reporter-output>
         </test-method> <!-- firstTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test.firstTestCase@34b7ac2f]" started-at="2022-11-11T16:59:08 GST" name="tearDown" finished-at="2022-11-11T16:59:10 GST" duration-ms="1761" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test.firstTestCase@34b7ac2f]" started-at="2022-11-11T17:27:37 GST" name="tearDown" finished-at="2022-11-11T17:27:39 GST" duration-ms="1367" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
